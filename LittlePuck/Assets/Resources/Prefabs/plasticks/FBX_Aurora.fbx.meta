@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 2218d2d6f6fb7d54fbdcc2ad5a90caee
+timeCreated: 1473464044
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Chainsaw
+    100002: DowArm
+    100004: //RootNode
+    100006: ikHandle1
+    100008: L_J1
+    100010: L_J2
+    100012: L_J3
+    100014: L_shoulder
+    100016: Leg_geo
+    100018: polySurface17
+    100020: R_DownArm_geo
+    100022: R_Hasami_C_geo
+    100024: R_Hasami_L_geo
+    100026: R_Hasami_R_geo
+    100028: R_J1
+    100030: R_J2
+    100032: R_J3
+    100034: R_J4
+    100036: R_J5
+    100038: R_shoulder
+    100040: R_UpArm_geo
+    100042: UpArm
+    400000: Chainsaw
+    400002: DowArm
+    400004: //RootNode
+    400006: ikHandle1
+    400008: L_J1
+    400010: L_J2
+    400012: L_J3
+    400014: L_shoulder
+    400016: Leg_geo
+    400018: polySurface17
+    400020: R_DownArm_geo
+    400022: R_Hasami_C_geo
+    400024: R_Hasami_L_geo
+    400026: R_Hasami_R_geo
+    400028: R_J1
+    400030: R_J2
+    400032: R_J3
+    400034: R_J4
+    400036: R_J5
+    400038: R_shoulder
+    400040: R_UpArm_geo
+    400042: UpArm
+    2300000: Chainsaw
+    2300002: DowArm
+    2300004: L_shoulder
+    2300006: Leg_geo
+    2300008: polySurface17
+    2300010: R_DownArm_geo
+    2300012: R_Hasami_C_geo
+    2300014: R_Hasami_L_geo
+    2300016: R_Hasami_R_geo
+    2300018: R_shoulder
+    2300020: R_UpArm_geo
+    2300022: UpArm
+    3300000: Chainsaw
+    3300002: DowArm
+    3300004: L_shoulder
+    3300006: Leg_geo
+    3300008: polySurface17
+    3300010: R_DownArm_geo
+    3300012: R_Hasami_C_geo
+    3300014: R_Hasami_L_geo
+    3300016: R_Hasami_R_geo
+    3300018: R_shoulder
+    3300020: R_UpArm_geo
+    3300022: UpArm
+    4300000: Leg_geo
+    4300002: R_shoulder
+    4300004: R_Hasami_R_geo
+    4300006: R_Hasami_L_geo
+    4300008: R_Hasami_C_geo
+    4300010: R_DownArm_geo
+    4300012: R_UpArm_geo
+    4300014: L_shoulder
+    4300016: Chainsaw
+    4300018: DowArm
+    4300020: UpArm
+    4300022: polySurface17
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

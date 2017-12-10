@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: ec25a8d7118c9dc43818beaa196cb394
+timeCreated: 1473654068
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gegi_0
+    21300002: gegi_1
+    21300004: gegi_2
+    21300006: gegi_3
+    21300008: gegi_4
+    21300010: gegi_5
+    21300012: gegi_6
+    21300014: gegi_7
+    21300016: gegi_8
+    21300018: gegi_9
+    21300020: gegi_10
+    21300022: gegi_11
+    21300024: gegi_12
+    21300026: gegi_13
+    21300028: gegi_14
+    21300030: gegi_15
+    21300032: gegi_16
+    21300034: gegi_17
+    21300036: gegi_18
+    21300038: gegi_19
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gegi_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: -69}
+        - {x: -6, y: -71}
+        - {x: 8, y: -71}
+        - {x: 9, y: -67}
+        - {x: 9, y: 51}
+        - {x: 8, y: 61}
+        - {x: 3, y: 71}
+        - {x: -6, y: 71}
+        - {x: -8, y: 69}
+    - name: gegi_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 67}
+        - {x: -10, y: 64}
+        - {x: -10, y: -72}
+        - {x: 9, y: -72}
+        - {x: 11, y: -71}
+        - {x: 11, y: 67}
+      - - {x: -7, y: 69}
+        - {x: -4, y: 66}
+        - {x: -1, y: 67}
+        - {x: -1, y: 70}
+        - {x: -4, y: 73}
+        - {x: -7, y: 72}
+    - name: gegi_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 70}
+        - {x: -12, y: 62}
+        - {x: -12, y: -59}
+        - {x: -9, y: -71}
+        - {x: -2, y: -74}
+        - {x: 11, y: -74}
+        - {x: 13, y: -73}
+        - {x: 13, y: 67}
+        - {x: 9, y: 70}
+      - - {x: -3, y: 74}
+        - {x: -8, y: 74}
+        - {x: -8, y: 69}
+        - {x: -6, y: 68}
+        - {x: -3, y: 68}
+        - {x: -2, y: 70}
+        - {x: -2, y: 73}
+    - name: gegi_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 76}
+        - {x: -14, y: -72}
+        - {x: -10, y: -76}
+        - {x: 15, y: -76}
+        - {x: 15, y: 76}
+    - name: gegi_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 77}
+        - {x: -16, y: -78}
+        - {x: 13, y: -78}
+        - {x: 18, y: -74}
+        - {x: 18, y: 69}
+        - {x: -1, y: 77}
+    - name: gegi_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 79}
+        - {x: -18, y: -80}
+        - {x: 18, y: -80}
+        - {x: 20, y: -75}
+        - {x: 20, y: 71}
+        - {x: 7, y: 79}
+    - name: gegi_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 78}
+        - {x: -20, y: 70}
+        - {x: -20, y: -3}
+        - {x: -16, y: -3}
+        - {x: -17, y: -3}
+        - {x: -20, y: -4}
+        - {x: -20, y: -68}
+        - {x: -15, y: -82}
+        - {x: 22, y: -82}
+        - {x: 22, y: 74}
+        - {x: 9, y: 78}
+      - - {x: -13, y: 77}
+        - {x: -10, y: 74}
+        - {x: -7, y: 75}
+        - {x: -7, y: 78}
+        - {x: -8, y: 80}
+        - {x: -11, y: 80}
+        - {x: -13, y: 79}
+    - name: gegi_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 80}
+        - {x: -23, y: 70}
+        - {x: -23, y: -78}
+        - {x: -11, y: -84}
+        - {x: 17, y: -84}
+        - {x: 21, y: -83}
+        - {x: 24, y: -69}
+        - {x: 24, y: 69}
+        - {x: 11, y: 80}
+      - - {x: -14, y: 76}
+        - {x: -8, y: 76}
+        - {x: -8, y: 80}
+        - {x: -10, y: 82}
+        - {x: -12, y: 82}
+        - {x: -14, y: 81}
+    - name: gegi_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 83}
+        - {x: -25, y: -71}
+        - {x: -15, y: -86}
+        - {x: 26, y: -86}
+        - {x: 26, y: 83}
+    - name: gegi_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -18}
+        - {x: 22, y: -15}
+        - {x: 21, y: -15}
+        - {x: 25, y: -15}
+        - {x: 27, y: -14}
+        - {x: 28, y: -8}
+        - {x: 28, y: -5}
+        - {x: 27, y: -4}
+        - {x: 25, y: 0}
+        - {x: 25, y: -1}
+        - {x: 26, y: 2}
+        - {x: 27, y: 7}
+        - {x: 27, y: 11}
+        - {x: 24, y: 14}
+        - {x: 22, y: 14}
+        - {x: 23, y: 14}
+        - {x: 26, y: 17}
+        - {x: 26, y: 19}
+        - {x: 27, y: 72}
+        - {x: 10, y: 84}
+        - {x: -22, y: 84}
+        - {x: -27, y: 82}
+        - {x: -27, y: -88}
+        - {x: -22, y: -88}
+        - {x: -4, y: -81}
+        - {x: -2, y: -79}
+        - {x: 1, y: -79}
+        - {x: -2, y: -80}
+        - {x: -4, y: -82}
+        - {x: -4, y: -85}
+        - {x: -3, y: -88}
+        - {x: 6, y: -88}
+        - {x: 23, y: -81}
+        - {x: 28, y: -56}
+        - {x: 28, y: -26}
+      - - {x: -16, y: 85}
+        - {x: -17, y: 82}
+        - {x: -14, y: 79}
+        - {x: -12, y: 79}
+        - {x: -10, y: 81}
+        - {x: -10, y: 82}
+        - {x: -13, y: 85}
+    - name: gegi_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -66}
+        - {x: 30, y: -58}
+        - {x: 30, y: 51}
+        - {x: 26, y: 76}
+        - {x: 21, y: 66}
+        - {x: 20, y: 69}
+        - {x: 23, y: 72}
+        - {x: 22, y: 75}
+        - {x: 19, y: 75}
+        - {x: 17, y: 73}
+        - {x: 18, y: 71}
+        - {x: 17, y: 72}
+        - {x: 17, y: 74}
+        - {x: 18, y: 83}
+        - {x: 10, y: 86}
+        - {x: -22, y: 86}
+        - {x: -29, y: 84}
+        - {x: -29, y: -90}
+        - {x: 28, y: -90}
+        - {x: 24, y: -80}
+        - {x: 21, y: -77}
+        - {x: 19, y: -77}
+      - - {x: -4, y: -84}
+        - {x: -4, y: -89}
+        - {x: 1, y: -89}
+        - {x: 2, y: -88}
+        - {x: 2, y: -85}
+        - {x: 0, y: -83}
+        - {x: -2, y: -83}
+      - - {x: -18, y: 81}
+        - {x: -12, y: 81}
+        - {x: -12, y: 85}
+        - {x: -14, y: 87}
+        - {x: -16, y: 87}
+        - {x: -18, y: 86}
+    - name: gegi_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 88}
+        - {x: -22, y: 80}
+        - {x: -31, y: 63}
+        - {x: -31, y: -63}
+        - {x: -25, y: -85}
+        - {x: -5, y: -92}
+        - {x: 16, y: -92}
+        - {x: 33, y: -87}
+        - {x: 33, y: 59}
+        - {x: 28, y: 88}
+      - - {x: -4, y: -86}
+        - {x: -4, y: -91}
+        - {x: 1, y: -91}
+        - {x: 2, y: -90}
+        - {x: 2, y: -87}
+        - {x: 0, y: -85}
+        - {x: -2, y: -85}
+      - - {x: 21, y: 77}
+        - {x: 19, y: 74}
+        - {x: 19, y: 71}
+        - {x: 25, y: 71}
+        - {x: 25, y: 76}
+        - {x: 23, y: 77}
+      - - {x: -19, y: 85}
+        - {x: -16, y: 82}
+        - {x: -13, y: 83}
+        - {x: -13, y: 86}
+        - {x: -14, y: 88}
+        - {x: -17, y: 88}
+        - {x: -19, y: 87}
+    - name: gegi_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 88}
+        - {x: -29, y: 73}
+        - {x: -29, y: -53}
+        - {x: -26, y: -56}
+        - {x: -24, y: -56}
+        - {x: -29, y: -56}
+        - {x: -29, y: -73}
+        - {x: -7, y: -92}
+        - {x: 12, y: -92}
+        - {x: 29, y: -75}
+        - {x: 29, y: 76}
+        - {x: 17, y: 88}
+      - - {x: -19, y: -81}
+        - {x: -19, y: -83}
+        - {x: -17, y: -84}
+        - {x: -15, y: -84}
+        - {x: -13, y: -81}
+        - {x: -13, y: -79}
+        - {x: -16, y: -78}
+    - name: gegi_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -91}
+        - {x: 6, y: -94}
+        - {x: 9, y: -93}
+        - {x: 9, y: -90}
+        - {x: 8, y: -88}
+        - {x: 5, y: -88}
+        - {x: 3, y: -89}
+      - - {x: 30, y: 79}
+        - {x: 16, y: 90}
+        - {x: -10, y: 90}
+        - {x: -31, y: 83}
+        - {x: -31, y: -32}
+        - {x: -29, y: -36}
+        - {x: -25, y: -42}
+        - {x: -23, y: -42}
+        - {x: -28, y: -41}
+        - {x: -30, y: -44}
+        - {x: -31, y: -49}
+        - {x: -31, y: -52}
+        - {x: -29, y: -57}
+        - {x: -29, y: -56}
+        - {x: -30, y: -59}
+        - {x: -31, y: -60}
+        - {x: -31, y: -66}
+        - {x: -15, y: -85}
+        - {x: -2, y: -88}
+        - {x: 5, y: -90}
+        - {x: 14, y: -90}
+        - {x: 16, y: -89}
+        - {x: 19, y: -85}
+        - {x: 31, y: -66}
+        - {x: 31, y: 66}
+      - - {x: -19, y: -80}
+        - {x: -21, y: -83}
+        - {x: -21, y: -84}
+        - {x: -20, y: -86}
+        - {x: -16, y: -86}
+        - {x: -15, y: -85}
+        - {x: -15, y: -81}
+        - {x: -17, y: -80}
+    - name: gegi_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -42}
+        - {x: 24, y: -42}
+        - {x: 27, y: -42}
+        - {x: 31, y: -41}
+        - {x: 31, y: 76}
+        - {x: 23, y: 89}
+        - {x: -25, y: 89}
+        - {x: -29, y: 88}
+        - {x: -32, y: 77}
+        - {x: -32, y: 32}
+        - {x: -31, y: 28}
+        - {x: -28, y: 27}
+        - {x: -26, y: 27}
+        - {x: -30, y: 26}
+        - {x: -32, y: 24}
+        - {x: -32, y: 23}
+        - {x: -29, y: 20}
+        - {x: -28, y: 20}
+        - {x: -31, y: 19}
+        - {x: -32, y: 15}
+        - {x: -32, y: -66}
+        - {x: -24, y: -75}
+        - {x: -7, y: -89}
+        - {x: 3, y: -89}
+        - {x: 17, y: -88}
+        - {x: 31, y: -63}
+        - {x: 31, y: -47}
+        - {x: 29, y: -43}
+      - - {x: 7, y: 92}
+        - {x: 2, y: 92}
+        - {x: 2, y: 87}
+        - {x: 4, y: 86}
+        - {x: 7, y: 86}
+        - {x: 8, y: 88}
+        - {x: 8, y: 91}
+    - name: gegi_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 39}
+        - {x: 26, y: 39}
+        - {x: 30, y: 43}
+        - {x: 29, y: 46}
+        - {x: 25, y: 47}
+        - {x: 24, y: 46}
+        - {x: 29, y: 47}
+        - {x: 30, y: 47}
+        - {x: 30, y: 70}
+        - {x: 26, y: 86}
+        - {x: -24, y: 86}
+        - {x: -32, y: 68}
+        - {x: -32, y: -62}
+        - {x: -12, y: -86}
+        - {x: 11, y: -86}
+        - {x: 30, y: -72}
+        - {x: 30, y: 37}
+      - - {x: -26, y: -72}
+        - {x: -25, y: -75}
+        - {x: -22, y: -75}
+        - {x: -20, y: -73}
+        - {x: -21, y: -70}
+        - {x: -24, y: -70}
+    - name: gegi_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 46}
+        - {x: 27, y: 45}
+        - {x: 27, y: 46}
+        - {x: 33, y: 46}
+        - {x: 33, y: 69}
+        - {x: 32, y: 77}
+        - {x: 22, y: 87}
+        - {x: 15, y: 88}
+        - {x: -20, y: 88}
+        - {x: -33, y: 73}
+        - {x: -33, y: -70}
+        - {x: -22, y: -87}
+        - {x: -15, y: -88}
+        - {x: 16, y: -88}
+        - {x: 33, y: -69}
+        - {x: 33, y: 45}
+      - - {x: -26, y: -70}
+        - {x: -28, y: -73}
+        - {x: -28, y: -74}
+        - {x: -27, y: -76}
+        - {x: -23, y: -76}
+        - {x: -22, y: -75}
+        - {x: -22, y: -71}
+        - {x: -24, y: -70}
+      - - {x: -32, y: 11}
+        - {x: -30, y: 9}
+        - {x: -25, y: 12}
+        - {x: -26, y: 15}
+        - {x: -30, y: 15}
+        - {x: -32, y: 13}
+      - - {x: -31, y: 32}
+        - {x: -28, y: 33}
+        - {x: -28, y: 36}
+        - {x: -31, y: 37}
+        - {x: -33, y: 35}
+      - - {x: 26, y: 36}
+        - {x: 29, y: 33}
+        - {x: 32, y: 34}
+        - {x: 32, y: 37}
+        - {x: 31, y: 39}
+        - {x: 28, y: 39}
+        - {x: 26, y: 38}
+    - name: gegi_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 86}
+        - {x: -26, y: 82}
+        - {x: -31, y: 65}
+        - {x: -31, y: -59}
+        - {x: -25, y: -80}
+        - {x: -12, y: -86}
+        - {x: 16, y: -86}
+        - {x: 31, y: -77}
+        - {x: 31, y: 74}
+        - {x: 18, y: 86}
+      - - {x: 22, y: 79}
+        - {x: 22, y: 77}
+        - {x: 24, y: 75}
+        - {x: 25, y: 75}
+        - {x: 28, y: 78}
+        - {x: 27, y: 81}
+        - {x: 24, y: 81}
+    - name: gegi_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 55}
+        - {x: 31, y: 57}
+        - {x: 31, y: 74}
+        - {x: 18, y: 86}
+        - {x: -15, y: 86}
+        - {x: -31, y: 69}
+        - {x: -31, y: -64}
+        - {x: -15, y: -86}
+        - {x: 13, y: -86}
+        - {x: 31, y: -70}
+        - {x: 31, y: 55}
+    - name: gegi_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 88}
+        - {x: 1, y: 82}
+        - {x: 2, y: 83}
+        - {x: 3, y: 87}
+        - {x: 0, y: 88}
+        - {x: -12, y: 88}
+        - {x: -33, y: 80}
+        - {x: -33, y: -35}
+        - {x: -27, y: -33}
+        - {x: -25, y: -31}
+        - {x: -25, y: -27}
+        - {x: -25, y: -31}
+        - {x: -23, y: -33}
+        - {x: -26, y: -33}
+        - {x: -31, y: -35}
+        - {x: -33, y: -37}
+        - {x: -33, y: -39}
+        - {x: -29, y: -74}
+        - {x: -18, y: -88}
+        - {x: 23, y: -88}
+        - {x: 33, y: -85}
+        - {x: 33, y: 73}
+        - {x: 12, y: 88}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

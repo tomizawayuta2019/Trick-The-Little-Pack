@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: c4f33bd68d8a2a549a94ee3ba7bc0aaa
+timeCreated: 1473322817
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ban
+    100002: celing
+    100004: closet
+    100006: closet_waku
+    100008: closetg
+    100010: doanobug
+    100012: door
+    100014: door_waku_left
+    100016: door_waku_right
+    100018: door_waku_top
+    100020: doorg
+    100022: doorgr
+    100024: floor
+    100026: nob
+    100028: //RootNode
+    100030: wall_closet
+    100032: wall_not_closet
+    100034: wall_not_window
+    100036: wall_window
+    100038: wallg
+    100040: window_left
+    100042: window_right
+    100044: window_waku_left
+    100046: window_waku_right
+    100048: window_waku_top
+    100050: window_waku_under
+    100052: windowg
+    400000: ban
+    400002: celing
+    400004: closet
+    400006: closet_waku
+    400008: closetg
+    400010: doanobug
+    400012: door
+    400014: door_waku_left
+    400016: door_waku_right
+    400018: door_waku_top
+    400020: doorg
+    400022: doorgr
+    400024: floor
+    400026: nob
+    400028: //RootNode
+    400030: wall_closet
+    400032: wall_not_closet
+    400034: wall_not_window
+    400036: wall_window
+    400038: wallg
+    400040: window_left
+    400042: window_right
+    400044: window_waku_left
+    400046: window_waku_right
+    400048: window_waku_top
+    400050: window_waku_under
+    400052: windowg
+    2300000: ban
+    2300002: celing
+    2300004: closet
+    2300006: closet_waku
+    2300008: door
+    2300010: door_waku_left
+    2300012: door_waku_right
+    2300014: door_waku_top
+    2300016: floor
+    2300018: nob
+    2300020: wall_closet
+    2300022: wall_not_closet
+    2300024: wall_not_window
+    2300026: wall_window
+    2300028: window_left
+    2300030: window_right
+    2300032: window_waku_left
+    2300034: window_waku_right
+    2300036: window_waku_top
+    2300038: window_waku_under
+    3300000: ban
+    3300002: celing
+    3300004: closet
+    3300006: closet_waku
+    3300008: door
+    3300010: door_waku_left
+    3300012: door_waku_right
+    3300014: door_waku_top
+    3300016: floor
+    3300018: nob
+    3300020: wall_closet
+    3300022: wall_not_closet
+    3300024: wall_not_window
+    3300026: wall_window
+    3300028: window_left
+    3300030: window_right
+    3300032: window_waku_left
+    3300034: window_waku_right
+    3300036: window_waku_top
+    3300038: window_waku_under
+    4300000: floor
+    4300002: window_waku_under
+    4300004: window_left
+    4300006: window_waku_left
+    4300008: window_right
+    4300010: window_waku_right
+    4300012: window_waku_top
+    4300014: celing
+    4300016: closet
+    4300018: closet_waku
+    4300020: door
+    4300022: door_waku_left
+    4300024: door_waku_right
+    4300026: door_waku_top
+    4300028: ban
+    4300030: nob
+    4300032: wall_not_window
+    4300034: wall_not_closet
+    4300036: wall_closet
+    4300038: wall_window
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

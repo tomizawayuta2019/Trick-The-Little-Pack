@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 72722ce0fd00e9443abec23a17474384
+timeCreated: 1473647461
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spark_0
+    21300002: spark_1
+    21300004: spark_2
+    21300006: spark_3
+    21300008: spark_4
+    21300010: spark_5
+    21300012: spark_6
+    21300014: spark_7
+    21300016: spark_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spark_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1000
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 6}
+        - {x: -7, y: 2}
+        - {x: -7, y: -4}
+        - {x: -2, y: -8}
+        - {x: 5, y: -8}
+        - {x: 7, y: -4}
+        - {x: 7, y: 4}
+        - {x: 3, y: 6}
+    - name: spark_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 1000
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.944443, y: 18}
+        - {x: -23.944443, y: 9}
+        - {x: -23.944443, y: -11}
+        - {x: -15.944443, y: -16}
+        - {x: 19.055557, y: -16}
+        - {x: 24.055557, y: -10}
+        - {x: 24.055557, y: 18}
+    - name: spark_2
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 1000
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.8888855, y: 31}
+        - {x: -16.888885, y: 30}
+        - {x: -37.888885, y: 22}
+        - {x: -39.888885, y: 18}
+        - {x: -39.888885, y: -20}
+        - {x: -28.888885, y: -25}
+        - {x: 34.111115, y: -25}
+        - {x: 37.111115, y: -22}
+        - {x: 37.111115, y: 24}
+        - {x: 28.111115, y: 31}
+    - name: spark_3
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 0
+        width: 1000
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.833313, y: 41}
+        - {x: -16.833313, y: 40}
+        - {x: -35.833313, y: 33}
+        - {x: -53.833313, y: 14}
+        - {x: -53.833313, y: -20}
+        - {x: -51.833313, y: -33}
+        - {x: 52.166687, y: -33}
+        - {x: 52.166687, y: 35}
+        - {x: 36.166687, y: 41}
+    - name: spark_4
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 1000
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53.77777, y: 45}
+        - {x: -67.77777, y: 25}
+        - {x: -67.77777, y: -40}
+        - {x: -66.77777, y: -41}
+        - {x: 35.22223, y: -41}
+        - {x: 65.22223, y: -36}
+        - {x: 67.22223, y: -33}
+        - {x: 67.22223, y: 45}
+    - name: spark_5
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 0
+        width: 1000
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.277832, y: 10}
+        - {x: 79.27783, y: 37}
+        - {x: 82.27783, y: 46}
+        - {x: 82.27783, y: 56}
+        - {x: -57.722168, y: 56}
+        - {x: -81.72217, y: 34}
+        - {x: -81.72217, y: -49}
+        - {x: 82.27783, y: -49}
+        - {x: 82.27783, y: -12}
+        - {x: 66.27783, y: 2}
+    - name: spark_6
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 1000
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.333374, y: 60}
+        - {x: 30.333374, y: 42}
+        - {x: 31.333374, y: 47}
+        - {x: 34.333374, y: 61}
+        - {x: 14.333374, y: 68}
+        - {x: 11.333374, y: 70}
+        - {x: -58.666626, y: 70}
+        - {x: -95.666626, y: 54}
+        - {x: -95.666626, y: -56}
+        - {x: 48.333374, y: -56}
+        - {x: 94.333374, y: -48}
+        - {x: 94.333374, y: 61}
+        - {x: 79.333374, y: 65}
+    - name: spark_7
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 0
+        width: 1000
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99.388916, y: -44}
+        - {x: 99.388916, y: 61}
+        - {x: 89.388916, y: 67}
+        - {x: 71.388916, y: 67}
+        - {x: 50.388916, y: 57}
+        - {x: 26.388916, y: 35}
+        - {x: 22.388916, y: 35}
+        - {x: 24.388916, y: 35}
+        - {x: 34.388916, y: 42}
+        - {x: 35.388916, y: 61}
+        - {x: 32.388916, y: 67}
+        - {x: -53.611084, y: 67}
+        - {x: -55.611084, y: 65}
+        - {x: -56.611084, y: 50}
+        - {x: -100.611084, y: 11}
+        - {x: -100.611084, y: -9}
+        - {x: -79.611084, y: -26}
+        - {x: -62.611084, y: -24}
+        - {x: -54.611084, y: -21}
+        - {x: -81.611084, y: -38}
+        - {x: -87.611084, y: -58}
+        - {x: -69.611084, y: -62}
+        - {x: -50.611084, y: -55}
+        - {x: -2.611084, y: -63}
+        - {x: 39.388916, y: -63}
+        - {x: 44.388916, y: -48}
+        - {x: 32.388916, y: -38}
+        - {x: 84.388916, y: -52}
+    - name: spark_8
+      rect:
+        serializedVersion: 2
+        x: 8000
+        y: 0
+        width: 1000
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.55554, y: 67}
+        - {x: -100.55554, y: 22}
+        - {x: -100.55554, y: -7}
+        - {x: -86.55554, y: -15}
+        - {x: -100.55554, y: -54}
+        - {x: -100.55554, y: -61}
+        - {x: -72.55554, y: -64}
+        - {x: -65.55554, y: -67}
+        - {x: 96.44446, y: -67}
+        - {x: 96.44446, y: 67}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
